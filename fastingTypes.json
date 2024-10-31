@@ -1,0 +1,180 @@
+[
+  {
+    "id": 1,
+    "fastingName": "Postul intermitent",
+    "fastingTypeLength": "12-16 ore",
+    "fastingTypeDescription": [
+      {
+        "id": 1,
+        "description": "Gândește-te la postul intermitent ca la o introducere simplă în lumea postului. Este o practică ușor de integrat în rutina zilnică și îți poate aduce rezultate rapide. Mulți oameni apelează la postul intermitent atunci când se confruntă cu dificultăți în pierderea în greutate sau sunt sătui de efectele dietelor yo-yo. Practicat corect, acest tip de post reprezintă un pas esențial pentru a ajuta corpul să revină la arderea grăsimilor în loc de zahăr."
+      },
+      {
+        "id": 2,
+        "description": "Dacă ești la început, iată primul tău obiectiv: Limitează intervalul de mese la 8-10 ore, lăsând 14-16 ore dedicate postului. Începe prin a amâna micul dejun cu o oră în fiecare zi. Fă asta timp de o săptămână, apoi mai amână-l cu încă o oră și continuă să extinzi treptat perioada de post până când te simți confortabil cu un post de 14 ore. Unii descoperă că pentru pierderea în greutate este mai eficient să ia cina mai devreme decât să amâne micul dejun. Ambele variante sunt bune; alege-o pe cea care ți se potrivește. Mâncatul târziu, urmat de mersul direct la culcare, poate încetini procesul de slăbire."
+      },
+      {
+        "id": 3,
+        "description": "Scopul este să-ți antrenezi corpul pentru o perioadă mai lungă fără mâncare, cu prima „bornă” importantă la 14 ore de post."
+      },
+      {
+        "id": 4,
+        "description": "Deși postul intermitent are beneficii pentru aproape toată lumea, există câteva motive clare pentru care este util în mod special:"
+      }
+    ],
+    "fastingTypeBenefits": [
+      { "id": 1, "benefit": "dacă dorești să slăbești;" },
+      {
+        "id": 2,
+        "benefit": "dacă te confrunți cu senzația de ceață mentală;"
+      },
+      { "id": 3, "benefit": "dacă simți o lipsă de energie." }
+    ]
+  },
+  {
+    "id": 2,
+    "fastingName": "Postul de autofagie",
+    "fastingTypeLength": "17-72 ore",
+    "fastingTypeDescription": [
+      {
+        "id": 1,
+        "description": "Îmi place să compar autofagia cu un întrerupător de intensitate, care începe să se activeze treptat în jurul orei 17 de post și atinge efectul maxim la 72 de ore. Beneficiile vindecătoare ale autofagiei sunt vaste, dar cel mai simplu mod de a ști când este momentul să prelungești perioada de post pentru a declanșa autofagia este atunci când îți dorești să:"
+      }
+    ],
+    "fastingTypeBenefits": [
+      {
+        "id": 1,
+        "benefit": "Detoxifici organismul;"
+      },
+      {
+        "id": 2,
+        "benefit": "Îmbunătățești funcția cerebrală și cogniția;"
+      },
+      {
+        "id": 3,
+        "benefit": "Previi o răceală;"
+      },
+      {
+        "id": 4,
+        "benefit": "Echilibrezi hormonii sexuali."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "fastingName": "Postul de refacere a florei intestinale",
+    "fastingTypeLength": "24 ore",
+    "fastingTypeDescription": [
+      {
+        "id": 1,
+        "description": "Când ești în post timp de 24 de ore sau mai mult, aceasta este o perioadă suficientă pentru a stimula eliberarea celulelor stem în intestin, care ajută la repararea mucoasei interne, ce ar putea fi afectată de ani de inflamație cronică. Aceasta este durata magică a postului pentru a începe să observi schimbări semnificative în sănătatea intestinului. La acest punct, corpul va produce celule stem care vor regenera celulele uzate și le vor revitaliza. Mulți oameni plătesc sume mari pentru a-și injecta celule stem în articulații, piele sau zone accidentate pentru regenerare, însă un efect similar poate fi obținut prin post."
+      },
+      {
+        "id": 2,
+        "description": "Nouăzeci la sută dintre microbii tăi trăiesc în intestin. Prelungirea postului la 24 de ore revitalizează acești microbi esențiali pentru sistemul imunitar și contribuie la producerea neurotransmițătorilor care mențin creierul fericit, calm și concentrat."
+      },
+      {
+        "id": 3,
+        "description": "În practică, acest post de 24 de ore este recomandat pentru resetarea intestinului în trei situații frecvente:"
+      }
+    ],
+    "fastingTypeBenefits": [
+      {
+        "id": 1,
+        "benefit": "Pentru a contracara efectele antibioticelor;"
+      },
+      {
+        "id": 2,
+        "benefit": "Pentru a compensa efectele contraceptivelor;"
+      },
+      {
+        "id": 3,
+        "benefit": "Pentru a combate suprapopularea bacteriană în intestinul subțire (SIBO)."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "fastingName": "Postul de ardere a grăsimilor",
+    "fastingTypeLength": "36 ore",
+    "fastingTypeDescription": [
+      {
+        "id": 1,
+        "description": "Fără îndoială, postul a devenit extrem de popular datorită eficienței sale ca instrument de pierdere în greutate pentru mulți oameni. Deși beneficiile sale pentru slăbit sunt impresionante, există o categorie de persoane care postește zilnic, adesea mâncând o singură masă pe zi, dar cântarul rămâne neschimbat. Soluția pentru acele femei ale căror corpuri păreau rezistente la slăbit, este postul de 36 de ore. Această durată a activat un mecanism de ardere a grăsimilor pe care nu-l puteau obține cu posturi mai scurte."
+      },
+      {
+        "id": 2,
+        "description": "Merită să încerci un post de 36 de ore din când în când pentru a:"
+      }
+    ],
+    "fastingTypeBenefits": [
+      {
+        "id": 1,
+        "benefit": "Minimiza rezistența la pierderea în greutate;"
+      },
+      { "id": 2, "benefit": "Elibera zahărul stocat;" },
+      { "id": 3, "benefit": "Reduce colesterolul." }
+    ]
+  },
+  {
+    "id": 5,
+    "fastingName": "Postul de resetare a dopaminei",
+    "fastingTypeLength": "48 ore",
+    "fastingTypeDescription": [
+      {
+        "id": 1,
+        "description": "Această durată de post este un adevărat impuls pentru sănătatea mentală. După cum știm, postul poate repara receptorii de dopamină, poate crea noi receptori și poate îmbunătăți căile dopaminergice. Există, de asemenea, dovezi științifice că un post mai lung de 24 de ore face receptorii de dopamină mai sensibili."
+      },
+      {
+        "id": 2,
+        "description": "Postul de 48 de ore pentru dopamină pare să îmbunătățească sănătatea mentală mai mult decât orice alt post. Partea interesantă este că efectul de claritate mentală nu apare imediat; în schimb, vei simți beneficiile săptămâni mai târziu, când întregul tău sistem dopaminergic este regenerat. Adesea, un singur post de 48 de ore poate aduce aceste rezultate."
+      },
+      {
+        "id": 3,
+        "description": "Când este momentul să încerci un post de 48 de ore? Atunci când vrei să:"
+      }
+    ],
+    "fastingTypeBenefits": [
+      {
+        "id": 1,
+        "benefit": "Reîncarci nivelurile de dopamină;"
+      },
+      {
+        "id": 2,
+        "benefit": "Reduci nivelurile de anxietate."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "fastingName": "Postul de resetare a sistemului imunitar",
+    "fastingTypeLength": "> 72 ore",
+    "fastingTypeDescription": [
+      {
+        "id": 1,
+        "description": "După trei zile de post, noile celule stem îmbunătățite pot avea un efect de vindecare semnificativ asupra celulelor îmbătrânite. Vei continua să produci aceste celule stem până când reîncepi să mănânci. Mulți oameni aleg să își prelungească postul la cinci sau mai multe zile pentru a maximiza producția de celule stem. "
+      },
+      {
+        "id": 2,
+        "description": "Această durată de post este recomandată atunci când dorești să obții unul sau mai multe dintre următoarele beneficii:"
+      }
+    ],
+    "fastingTypeBenefits": [
+      {
+        "id": 1,
+        "benefit": "Ameliorarea unei afecțiuni cronice;"
+      },
+      {
+        "id": 2,
+        "benefit": "Prevenirea bolilor cronice;"
+      },
+      {
+        "id": 3,
+        "benefit": "Reducerea durerii și a rigidității cauzate de leziuni musculo-scheletice persistente;"
+      },
+      {
+        "id": 4,
+        "benefit": "Încetinirea efectelor îmbătrânirii."
+      }
+    ]
+  }
+]
