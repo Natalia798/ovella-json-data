@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Fazele menstruale",
+    "description": "Cunoașterea fazelor ciclului menstrual ajută la ajustarea alimentației pentru a echilibra hormonii, a menține energia și a reduce simptomele neplăcute, îmbunătățind astfel starea de bine. Cele 4 faze ale ciclului sunt: menstruală, foliculară, ovulație și luteală.",
+    "imageSrc": "./img/cycle-phases.jpeg",
+    "buttonRef": "./pages/menstrual-cycle-phases.html",
+    "buttonName": "Citește mai mult"
+  },
+  {
+    "id": 2,
+    "title": "Tipurile de post alimentar",
+    "description": "Postul alimentar ajută la pierderea în greutate, îmbunătățește sensibilitatea la insulină, sprijină sănătatea metabolică și cardiovasculară, reduce inflamația, protejează funcția cerebrală și poate prelungi durata de viață prin regenerarea celulară.",
+    "imageSrc": "./img/fasting-plate.jpeg",
+    "buttonRef": "./pages/fasting-types.html",
+    "buttonName": "Află cele 6 tipuri"
+  },
+  {
+    "id": 3,
+    "title": "Ține glicemia sub control",
+    "description": "Menținerea glicemiei sub control este esențială pentru prevenirea diabetului de tip 2, evitarea fluctuațiilor de energie și gestionarea greutății. De asemenea, previne complicații cardiovasculare și protejează sănătatea generală, inclusiv funcția cognitivă și rinichii.",
+    "imageSrc": "./img/glucose.jpg",
+    "buttonRef": "./pages/glucose-control-tips.html",
+    "buttonName": "Află cele 10 trucuri"
+  },
+  {
+    "id": 4,
+    "title": "Rețete",
+    "description": "Fie că sunteți în căutarea unor preparate rapide, a unor mese nutritive sau a unor idei creative pentru prânz și cină, veți găsi inspirație aici. Gătiți acasă și bucurați-vă de mâncăruri care nu sunt doar gustoase, dar și benefice pentru sănătatea dumneavoastră.",
+    "imageSrc": "./img/recipes.jpg",
+    "buttonRef": "./pages/recipes.html",
+    "buttonName": "Descoperă rețetele"
+  }
+]
