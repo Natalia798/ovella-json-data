@@ -53,8 +53,8 @@
     "id": 5,
     "protocolName": "Protocol pentru infertilitate",
     "protocolDays": [
-      { "day": "<strong>Luna 1</strong> - Zilele 1-3: post intermitent (15 ore)" },
-      { "day": "<strong>Luna 1</strong> - Zilele 4-10: post intermitent (17 ore)" },
+      { "day": `<strong>Luna 1</strong> - Zilele 1-3: post intermitent (15 ore)` },
+      { "day": `<strong>Luna 1</strong> - Zilele 4-10: post intermitent (17 ore)` },
       { "day": "<strong>Luna 1</strong> - Zilele 11-15: post intermitent (13 ore" },
       { "day": "<strong>Luna 1</strong> - Zilele 16-19: post intermitent (13 ore)" },
       { "day": "<strong>Luna 1</strong> - Ziua 20-sângerare: fără post" },
