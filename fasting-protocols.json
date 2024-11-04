@@ -1,0 +1,131 @@
+[
+  {
+    "id": 1,
+    "protocolName": "Resetarea prin post alimentar de 30 de zile",
+    "protocolDays": [
+      { "day": "Zilele 1-4: post intermitent (13 ore)" },
+      { "day": "Ziua 5: post intermitent (15 ore" },
+      { "day": "Zilele 6-10: post de autofagie (17 ore)" },
+      { "day": "Zilele 11-15: post intermitent (13 ore)" },
+      { "day": "Zilele 16-19: post intermitent (15 ore)" },
+      { "day": "Zilele 20-30: fără post alimentar" }
+    ]
+  },
+  {
+    "id": 2,
+    "protocolName": "Resetarea avansată prin post alimentar de 30 de zile",
+    "protocolDays": [
+      { "day": "Zilele 1-5: post intermitent (15 ore)" },
+      { "day": "Ziua 6: post de resetare a intestinelor (24 ore)" },
+      { "day": "Zilele 7-10: post de autofagie (17 ore)" },
+      { "day": "Zilele 11-15: post intermitent (15 ore)" },
+      { "day": "Ziua 16: post de resetare a intestinelor (24 ore)" },
+      { "day": "Zilele 17-19: post de autofagie (17 ore)" },
+      { "day": "Zilele 20-30: post intermitent (13 ore)" }
+    ]
+  },
+  {
+    "id": 3,
+    "protocolName": "Protocol pentru boli autoimune: SOP, Lupus, Hashimoto, artrită reumatoidă",
+    "protocolDays": [
+      { "day": "Zilele 1-5: post de autofagie (17 ore)" },
+      { "day": "Zilele 6-7: post de refacere a florei intestinale (24 ore)" },
+      { "day": "Zilele 8-10: post de autofagie (17 ore)" },
+      { "day": "Zilele 11-15: post intermitent (15 ore)" },
+      { "day": "Zilele 16-17: post de refacere a florei intestinale (24 ore)" },
+      { "day": "Zilele 18-19: post de autofagie (17 ore" },
+      { "day": "Ziua 20-sângerare: post intermitent (13 ore)" }
+    ]
+  },
+  {
+    "id": 4,
+    "protocolName": "Protocol pentru sănătatea creierului: anxietate, depresie, pierderi de memorie",
+    "protocolDays": [
+      { "day": "Zilele 1-5: post de autofagie (17 ore)" },
+      { "day": "Zielele 6-7: post de resetare a dopaminei (48 ore)" },
+      { "day": "Zilele 8-10: post intermitent (15 ore)" },
+      { "day": "Zilele 11-15: post intermitent (13 ore)" },
+      { "day": "Zilele 16-19: post de autofagie (17 ore)" },
+      { "day": "Ziua 20-sângerare: post intermitent (13 ore)" }
+    ]
+  },
+  {
+    "id": 5,
+    "protocolName": "Protocol pentru infertilitate",
+    "protocolDays": [
+      { "day": "<h3>Luna 1</h3>" },
+      { "day": "Zilele 1-3: post intermitent (15 ore)" },
+      { "day": "Zilele 4-10: post intermitent (17 ore)" },
+      { "day": "Zilele 11-15: post intermitent (13 ore" },
+      { "day": "Zilele 16-19: post intermitent (13 ore)" },
+      { "day": "Ziua 20-sângerare: fără post" },
+      { "day": "<br/><h3>Luna 2</h3>" },
+      { "day": "Zilele 1-5: post de autofagie (17 ore)" },
+      { "day": "Ziua 6: post de refacere a florei intestinale (24 ore)" },
+      { "day": "Zilele 7-10: post de autofagie (17 ore)" },
+      { "day": "Zilele 11-15: post intermitent (13 ore)" },
+      { "day": "Ziua 16-sângerare: fără post" }
+    ]
+  },
+  {
+    "id": 6,
+    "protocolName": "Protocol pentru afecțiuni tiroidiene",
+    "protocolDays": [
+      { "day": "Zilele 1-5: post intermitent (15 ore)" },
+      { "day": "Zilele 6-8: post de autofagie (17 ore)" },
+      { "day": "Zilele 9-10: post de refacere a florei intestinale (24 ore)" },
+      { "day": "Zilele 11-15: post intermitent (15 ore)" },
+      { "day": "Zilele 16-19: post de autofagie (17 ore)" },
+      { "day": "Ziua 20-sângerare: post intermitent (13 ore)" }
+    ]
+  },
+  {
+    "id": 7,
+    "protocolName": "Protocol pentru oboseală cronică",
+    "protocolDays": [
+      { "day": "Zilele 1-3: post intermitent (13 ore)" },
+      { "day": "Zilele 4-6: post intermitent (15 ore)" },
+      { "day": "Ziua 7: post de autofagie (17 ore)" },
+      { "day": "Zilele 8-9: post intermitent (15 ore)" },
+      { "day": "Zilele 10-15: post intermitent (13 ore)" },
+      { "day": "Zilele 16-19: post intermitent (15 ore)" },
+      { "day": "Ziua 20-sângerare: fără post" }
+    ]
+  },
+  {
+    "id": 8,
+    "protocolName": "Protocol pentru diabet de tip 2",
+    "protocolDays": [
+      { "day": "Zilele 1-5: post intermitent (13 ore)" },
+      { "day": "Zilele 6-10: post intermitent (15 ore)" },
+      { "day": "Zilele 11-15: post intermitent (13 ore)" },
+      { "day": "Ziua 16: post de autofagie (17 ore)" },
+      { "day": "Zilele 17-19: post intermitent (13 ore)" },
+      { "day": "Ziua 20-sângerare: fără post" }
+    ]
+  },
+  {
+    "id": 9,
+    "protocolName": "Protocol pentru oboseală suprarenală",
+    "protocolDays": [
+      { "day": "Zilele 1-10: post intermitent (10 ore)" },
+      { "day": "Zilele 11-15: fără post" },
+      { "day": "Zilele 16-19: post intermitent (13 ore)" },
+      { "day": "Zilele 20-28: fără post" }
+    ]
+  },
+  {
+    "id": 10,
+    "protocolName": "Protocol pentru sistemul imunitar",
+    "protocolDays": [
+      { "day": "Zilele 1-5: post de autofagie (17 ore)" },
+      { "day": "Zilele 6-9: post cu apă (72 ore)" },
+      {
+        "day": "Ziua 10: întrerupe postul de apă prin intermediul procesului în patru etape"
+      },
+      { "day": "Zilele 11-15: post de autofagie (17 ore)" },
+      { "day": "Zilele 16-18: post de refacere a florei intestinale (24 ore)" },
+      { "day": "Ziua 19-sângerare: post intermitent (15 ore)" }
+    ]
+  }
+]
