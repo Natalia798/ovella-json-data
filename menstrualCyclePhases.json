@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "phaseName": "Faza de putere 1 / Menstruația",
+    "foodChoices": "Alimentație ketobiotică",
+    "phaseDays": "Zilele 1-10",
+    "fastingLength": "13-72 ore"
+  },
+  {
+    "id": 2,
+    "phaseName": "Faza de manifestare / Ovulația",
+    "foodChoices": "Alimente pentru susținerea hormonilor",
+    "phaseDays": "Zilele 11-15",
+    "fastingLength": "13-15 ore"
+  },
+  {
+    "id": 3,
+    "phaseName": "Faza de putere 2",
+    "foodChoices": "Alimentație ketobiotică",
+    "phaseDays": "Zilele 16-19",
+    "fastingLength": "13-72 ore"
+  },
+  {
+    "id": 4,
+    "phaseName": "Faza de îngrijire",
+    "foodChoices": "Alimente pentru susținerea hormonilor",
+    "phaseDays": "Zilele 20-menstruație",
+    "fastingLength": "Fără post alimentar"
+  }
+]
