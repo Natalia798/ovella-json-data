@@ -3,7 +3,7 @@
     "id": 1,
     "protocolName": "Resetarea prin post alimentar de 30 de zile",
     "protocolDays": [
-      { "day": "Zilele 1-4: post intermitent (13 ore)" },
+      { "day": "<strong>Zilele 1-4:</strong> post intermitent (13 ore)" },
       { "day": "Ziua 5: post intermitent (15 ore" },
       { "day": "Zilele 6-10: post de autofagie (17 ore)" },
       { "day": "Zilele 11-15: post intermitent (13 ore)" },
