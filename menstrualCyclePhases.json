@@ -1,42 +1,74 @@
 [
   {
     "id": 1,
-    "phaseName": "Faza de putere 1 / Menstruația",
+    "phaseName": "Faza Menstruală și Post-Menstruală",
     "foodChoices": "Alimentație ketobiotică",
     "phaseDays": "Zilele 1-10",
     "fastingLength": "13-72 ore",
     "phaseDescription": [
-      {"description": "Descriere 1"}
+      {
+        "description": "<strong>Hormonii:</strong> La începutul fazei menstruale, hormonii (estrogen, progesteron) sunt la un nivel foarte scăzut. Pe măsură ce zilele avansează, nivelul de estrogen începe să crească treptat, ceea ce poate duce la o creștere a energiei și a stării de spirit."
+      },
+      {
+        "description": "<strong>Alimentație:</strong> Este esențial să consumi alimente bogate în fier pentru a compensa pierderile din timpul sângerării, cum ar fi legumele verzi (spanac), carne roșie, pește și nuci. De asemenea, proteinele și grăsimile sănătoase contribuie la refacerea corpului și mențin stabilitatea glicemiei."
+      },
+      {
+        "description": "<strong>Antrenamente:</strong> În primele zile, este bine să optezi pentru exerciții de intensitate redusă, cum ar fi yoga, pilates sau mersul pe jos. După începerea creșterii estrogenului (zilele 5-10), corpul este mai pregătit pentru activități de intensitate moderată, cum ar fi antrenamentele ușoare de cardio sau exercițiile de forță cu greutăți mici."
+      }
     ]
   },
   {
     "id": 2,
-    "phaseName": "Faza de manifestare / Ovulația",
+    "phaseName": "Faza de Ovulație",
     "foodChoices": "Alimente pentru susținerea hormonilor",
     "phaseDays": "Zilele 11-15",
     "fastingLength": "13-15 ore",
-     "phaseDescription": [
-      {"description": "Descriere 2"}
+    "phaseDescription": [
+      {
+        "description": "<strong>Hormonii:</strong> Estrogenul atinge un vârf, ceea ce duce la o creștere a energiei, a încrederii și a clarității mentale. De asemenea, nivelul de testosteron crește, sporind forța și motivația."
+      },
+      {
+        "description": "<strong>Alimentație:</strong> Pentru a sprijini această creștere hormonală, este indicat să consumi alimente bogate în proteine și carbohidrați complecși. Include fructe, legume proaspete și cereale integrale, deoarece acestea susțin și sănătatea ficatului, necesară pentru metabolizarea corectă a estrogenului."
+      },
+      {
+        "description": "<strong>Antrenamente:</strong> Aceasta este faza cea mai potrivită pentru antrenamente intense, deoarece nivelurile ridicate de estrogen și testosteron îmbunătățesc forța și capacitatea de recuperare. Antrenamentele de forță, HIIT (high-intensity interval training) și cardio intens sunt ideale în această perioadă."
+      }
     ]
   },
   {
     "id": 3,
-    "phaseName": "Faza de putere 2",
+    "phaseName": "Faza Post-Ovulatorie",
     "foodChoices": "Alimentație ketobiotică",
     "phaseDays": "Zilele 16-19",
     "fastingLength": "13-72 ore",
-     "phaseDescription": [
-      {"description": "Descriere 3"}
+    "phaseDescription": [
+      {
+        "description": "<strong>Hormonii:</strong> După ovulație, nivelul de estrogen scade, iar progesteronul începe să crească pentru a susține un eventual proces de implantare. Acest lucru poate duce la o scădere a energiei și a clarității mentale."
+      },
+      {
+        "description": "<strong>Alimentație:</strong> Pe măsură ce hormonii fluctuează, corpul devine mai eficient în a folosi grăsimile ca sursă de energie. Este un moment potrivit pentru a introduce posturi mai lungi, până la 17 ore, și alimente bogate în grăsimi sănătoase (avocado, nuci, semințe). Dieta ketobiotică poate fi benefică în această fază, deoarece reduce nivelul de insulină și stimulează autofagia, un proces care ajută la regenerarea celulară."
+      },
+      {
+        "description": "<strong>Antrenamente:</strong> Antrenamentele ar trebui să fie de intensitate moderată, cum ar fi antrenamentele cu greutăți medii și cardio moderat. Evită să exagerezi pentru a nu suprasolicita corpul, având în vedere că energia începe să scadă."
+      }
     ]
   },
   {
     "id": 4,
-    "phaseName": "Faza de îngrijire",
+    "phaseName": "Faza de Luteinizare și Îngrijire",
     "foodChoices": "Alimente pentru susținerea hormonilor",
-    "phaseDays": "Zilele 20-menstruație",
+    "phaseDays": "Ziua 20-Sângerare",
     "fastingLength": "Fără post alimentar",
-     "phaseDescription": [
-      {"description": "Descriere 4"}
+    "phaseDescription": [
+      {
+        "description": "<strong>Hormonii:</strong> Progesteronul domină această perioadă, având un efect calmant și pregătind corpul pentru menstruație. Înainte de menstruație, nivelul de cortizol poate influența negativ progesteronul, motiv pentru care este important să eviți stresul excesiv."
+      },
+      {
+        "description": "<strong>Alimentație:</strong> În această perioadă, consumul de carbohidrați complecși este esențial pentru a susține producția de progesteron. Cartofii, dovlecii, fasolea, citricele și fructele de pădure sunt opțiuni ideale. Evită postul alimentar prelungit, deoarece poate crește nivelul de cortizol, afectând producția de progesteron."
+      },
+      {
+        "description": "<strong>Antrenamente:</strong> Pentru a proteja nivelul de progesteron, evită exercițiile intense. Optează pentru activități de relaxare, cum ar fi yoga, plimbările sau exercițiile de respirație. Acest lucru ajută la reducerea stresului și pregătește corpul pentru menstruație."
+      }
     ]
   }
 ]
