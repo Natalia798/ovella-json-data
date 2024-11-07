@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "foodTypeName": "Alimentație ketobiotică",
+    "foodTypeDescription": [
+      {
+        "description": "Dieta ketobiotică este o variantă adaptată pentru femei a dietei ketogenice, care ia în considerare nevoile hormonale și necesitatea de a consuma mai multe fibre vegetale. Aceasta combină beneficiile unei alimentații scăzute în carbohidrați cu suportul microbian necesar detoxifierii și susținerii sănătății hormonale.",
+        "rules": [
+          {
+            "rule": "Consumă până la 50g de carbohidrați neti pe zi, din legume și verdețuri."
+          },
+          { "rule": "Consumă până la 75g de proteine curate zilnic." },
+          { "rule": "Peste 60% din calorii să provină din grăsimi sănătoase." }
+        ],
+        "benefits": [
+          {
+            "benefit": "Menținerea glicemiei scăzute pentru arderea grăsimilor."
+          },
+          {
+            "benefit": "Optimizarea producției de estrogen și detoxifierea estrogenului."
+          },
+          { "benefit": "Suport pentru sănătatea ficatului și intestinului." },
+          {
+            "benefit": "Creșterea cetonelor pentru susținerea hipotalamusului și glandei hipofize, importante pentru echilibrul hormonal."
+          }
+        ]
+      }
+    ],
+    "foodCategory": [
+      {
+        "categoryId": 1,
+        "categoryName": "Grăsimi",
+        "foodArray": [
+          { "food": "Ulei de măsline" },
+          { "food": "Ulei de semințe de in" },
+          { "food": "Ulei de semințe de susan" },
+          { "food": "Ulei de semințe de dovleac" },
+          { "food": "Ulei MCT" },
+          { "food": "Avocado" },
+          { "food": "Măsline" }
+        ]
+      },
+      {
+        "categoryId": 2,
+        "categoryName": "Semințe și fructe cu coajă lignificată",
+        "foodArray": [
+          { "food": "Nuci braziliene" },
+          { "food": "Migdale" },
+          { "food": "Caju" },
+          { "food": "Arahide prăjite și sărate" },
+          { "food": "Nuci de pin" },
+          { "food": "Semințe de dovleac" },
+          { "food": "Semințe de floarea-soarelui" },
+          { "food": "Nuci" },
+          { "food": "Semințe de susan" },
+          { "food": "Semințe de chia" }
+        ]
+      },
+      {
+        "categoryId": 3,
+        "categoryName": "Leguminoase",
+        "foodArray": [
+          { "food": "Mazăre" },
+          { "food": "Năut" },
+          { "food": "Boabe de soia" },
+          { "food": "Linte" },
+          { "food": "Roșcove" },
+          { "food": "Fasole" },
+          { "food": "Quinoa" }
+        ]
+      },
+      {
+        "categoryId": 4,
+        "categoryName": "Fructe și legume",
+        "foodArray": [
+          { "food": "Germeni" },
+          { "food": "Varză" },
+          { "food": "Spanac" },
+          { "food": "Ceapă" },
+          { "food": "Usturoi" },
+          { "food": "Dovlecei" },
+          { "food": "Broccoli" },
+          { "food": "Conopină" },
+          { "food": "Ciuperci" },
+          { "food": "Căpșuni" },
+          { "food": "Afine" },
+          { "food": "Merișoare" }
+        ]
+      },
+      {
+        "categoryId": 5,
+        "categoryName": "Proteine",
+        "foodArray": [
+          { "food": "Ouă" },
+          { "food": "Lapte" },
+          { "food": "Brânză" },
+          { "food": "Tofu" },
+          { "food": "Carne de vită" },
+          { "food": "Carne de bizon" },
+          { "food": "Carne de curcan" },
+          { "food": "Carne de pui" },
+          { "food": "Carne de porc" },
+          { "food": "Carne de pește" },
+          { "food": "Mezeluri precum salamul și prosciutto" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "foodTypeName": "Susținerea hormonilor",
+    "foodTypeDescription": [
+      {
+        "description": "Dieta pentru susținerea hormonilor este ideală pentru femeile care doresc să-și optimizeze nivelul de progesteron, esențial pentru starea de bine, somn și sănătate mentală. Acest stil de alimentație permite un aport mai mare de carbohidrați, proveniți din legume și fructe, pentru a susține sănătatea hormonală și echilibrul microbian.",
+        "rules": [
+          {
+            "rule": "Consumă până la 150g de carbohidrați neti pe zi, mai ales din legume și fructe."
+          },
+          { "rule": "Limitează proteinele la 50g pe zi." },
+          { "rule": "Consumă grăsimi sănătoase, după preferință." }
+        ],
+        "benefits": [
+          {
+            "benefit": "Creșterea producției de progesteron pentru reglarea ciclului menstrual și ameliorarea simptomelor hormonale."
+          },
+          {
+            "benefit": "Îmbunătățirea dispoziției, calității somnului și sănătății mentale."
+          },
+          { "benefit": "Suport pentru sănătatea ficatului și intestinului." },
+          {
+            "benefit": "Ajută la menținerea greutății prin adaptarea alimentației la nevoile hormonale."
+          }
+        ]
+      }
+    ],
+    "foodCategory": [
+      {
+        "categoryId": 1,
+        "categoryName": "Grăsimi",
+        "foodArray": [
+          { "food": "Ulei de măsline" },
+          { "food": "Ulei de semințe de in" },
+          { "food": "Ulei de semințe de susan" },
+          { "food": "Ulei de semințe de dovleac" },
+          { "food": "Ulei MCT" },
+          { "food": "Avocado" },
+          { "food": "Măsline" }
+        ]
+      },
+      {
+        "categoryId": 2,
+        "categoryName": "Legume rădăcinoase",
+        "foodArray": [
+          { "food": "Cartofi albi" },
+          { "food": "Cartofi roșii" },
+          { "food": "Cartofi dulci" },
+          { "food": "Igname" },
+          { "food": "Sfeclă roșie" },
+          { "food": "Napi" },
+          { "food": "Fenicul" },
+          { "food": "Dovleac" }
+        ]
+      },
+      {
+        "categoryId": 3,
+        "categoryName": "Legume crucifere",
+        "foodArray": [
+          { "food": "Varză de Bruxelles" },
+          { "food": "Conopidă" },
+          { "food": "Broccoli" }
+        ]
+      },
+      {
+        "categoryId": 4,
+        "categoryName": "Leguminoase",
+        "foodArray": [{ "food": "Năut" }, { "food": "Fasole" }]
+      },
+      {
+        "categoryId": 5,
+        "categoryName": "Semințe",
+        "foodArray": [
+          { "food": "Floarea-soarelui" },
+          { "food": "In" },
+          { "food": "Susan" }
+        ]
+      },
+      {
+        "categoryId": 6,
+        "categoryName": "Fructe tropicale și citrice",
+        "foodArray": [
+          { "food": "Banane" },
+          { "food": "Mango" },
+          { "food": "Papaya" },
+          { "food": "Portocale" },
+          { "food": "Grapefruit" },
+          { "food": "Lămâi" },
+          { "food": "Limetă" }
+        ]
+      },
+      {
+        "categoryId": 7,
+        "categoryName": "Proteine",
+        "foodArray": [
+          { "food": "Ouă" },
+          { "food": "Lapte" },
+          { "food": "Brânză" },
+          { "food": "Tofu" },
+          { "food": "Carne de vită" },
+          { "food": "Carne de bizon" },
+          { "food": "Carne de curcan" },
+          { "food": "Carne de pui" },
+          { "food": "Carne de porc" },
+          { "food": "Carne de pește" },
+          { "food": "Mezeluri precum salamul și prosciutto" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "foodTypeName": "Echilibru hormonal",
+    "foodTypeDescription": [
+      {
+        "description": "Alimentația pentru echilibru hormonal combină cele două abordări alimentare importante: dieta ketobiotică și dieta pentru susținerea hormonilor. Aceste regimuri sunt adaptate nevoilor femeilor și sunt concepute pentru a sprijini sănătatea hormonală, menținerea unui echilibru metabolic optim și o digestie sănătoasă.",
+        "rules": [
+          {
+            "rule": "În ambele tipuri alimentare, include alimente bogate în polifenoli, probiotice și prebiotice pentru susținerea microbiomului intestinal și a sănătății hormonale."
+          },
+          {
+            "rule": "Polifenolii și probioticele sunt mai eficiente atunci când sunt consumate în zilele ketobiotice, iar prebioticele în zilele de susținere a hormonilor."
+          },
+          {
+            "rule": "Scopul este să ajungi la 200 de tipuri diferite de alimente în dieta ta într-o lună. Pentru a atinge acest obiectiv, poți include și o varietate de condimente naturale."
+          }
+        ],
+        "benefits": [
+          {
+            "benefit": "Susținerea sănătății intestinale prin echilibrarea microbiomului și îmbunătățirea digestiei."
+          },
+          {
+            "benefit": "Reducerea inflamației și protecția celulară datorită proprietăților antioxidante."
+          },
+          {
+            "benefit": "Reglarea glicemiei și îmbunătățirea sensibilității la insulină."
+          },
+          {
+            "benefit": "Sprijinirea sistemului imunitar și stimularea metabolismului pentru o stare generală de bine."
+          }
+        ]
+      }
+    ],
+    "foodCategory": [
+      {
+        "categoryId": 1,
+        "categoryName": "Alimente fermentate bogate în probiotice",
+        "foodArray": [
+          { "food": "Varză" },
+          { "food": "Kimchi" },
+          { "food": "Murături" },
+          { "food": "Iaurt" },
+          { "food": "Chefir" },
+          { "food": "Kombucha" }
+        ]
+      },
+      {
+        "categoryId": 2,
+        "categoryName": "Alimente bogate în prebiotice",
+        "foodArray": [
+          { "food": "Rădăcină de cicoare" },
+          { "food": "Rădăcină de păpădie" },
+          { "food": "Rădăcină de konjac" },
+          { "food": "Rădăcină de brusture" },
+          { "food": "Ceapă" },
+          { "food": "Anghinare" },
+          { "food": "Usturoi" },
+          { "food": "Praz" },
+          { "food": "Sparanghel" },
+          { "food": "Fasole roșie" },
+          { "food": "Năut" },
+          { "food": "Mazăre" },
+          { "food": "Caju" },
+          { "food": "Fistic" },
+          { "food": "Humus" }
+        ]
+      },
+      {
+        "categoryId": 3,
+        "categoryName": "Alimente bogate în polifenoli",
+        "foodArray": [
+          { "food": "Inimi de anghinare" },
+          { "food": "Broccoli" },
+          { "food": "Varză de Bruxelles" },
+          { "food": "Măsline" },
+          { "food": "Cuișoare" },
+          { "food": "Șofran" },
+          { "food": "Oregano" },
+          { "food": "Rozmarin" },
+          { "food": "Cimbru" },
+          { "food": "Busuioc" },
+          { "food": "Scorțișoară" },
+          { "food": "Chimen" },
+          { "food": "Curry" },
+          { "food": "Pătrunjel" },
+          { "food": "Ciocolată neagră" },
+          { "food": "Vin roșu" }
+        ]
+      },
+      {
+        "categoryId": 4,
+        "categoryName": "Condimente",
+        "foodArray": [
+          { "food": "Cardamon" },
+          { "food": "Chimen" },
+          { "food": "Semințe de țelină" },
+          { "food": "Pulbere de ceapă" },
+          { "food": "Pulbere de usturoi" },
+          { "food": "Anason stelat" },
+          { "food": "Piper negru" },
+          { "food": "Turmeric" },
+          { "food": "Rozmarin" },
+          { "food": "Cimbru" },
+          { "food": "Busuioc" },
+          { "food": "Șofran" },
+          { "food": "Nucșoară" },
+          { "food": "Ienibahar" },
+          { "food": "Scorțișoară" },
+          { "food": "Semințe de muștar" }
+        ]
+      }
+    ]
+  }
+]
