@@ -1,0 +1,607 @@
+[
+  {
+    "id": 1,
+    "name": "Bol cu humus",
+    "category": "first meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 28,
+      "carbs": 24,
+      "fat": 31
+    }
+  },
+  {
+    "id": 2,
+    "name": "Salată de varză de Bruxelles rasă cu pui și dressing miso cu ghimbir",
+    "category": "second meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 28,
+      "carbs": 8,
+      "fat": 15
+    }
+  },
+  {
+    "id": 2,
+    "name": "Shakshuka cu ceapă murată și avocado",
+    "category": "first meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 25,
+      "carbs": 27,
+      "fat": 42
+    }
+  },
+  {
+    "id": 3,
+    "name": "Salată de kimchi cu năut crocant",
+    "category": "first meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 27,
+      "carbs": 20,
+      "fat": 47
+    }
+  },
+  {
+    "id": 4,
+    "name": "Gujoane de pui cu migdale și salată de varză murată",
+    "category": "second meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 49,
+      "carbs": 13,
+      "fat": 35
+    }
+  },
+  {
+    "id": 5,
+    "name": "Tempeh cu usturoi, ghimbir și quinoa cu broccoli",
+    "category": "second meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 40,
+      "carbs": 35,
+      "fat": 31
+    }
+  },
+  {
+    "id": 6,
+    "name": "Tocană de kimchi cu tofu",
+    "category": "first meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 41,
+      "carbs": 20,
+      "fat": 22
+    }
+  },
+  {
+    "id": 7,
+    "name": "Frittata cu prosciutto, spanac și sparanghel",
+    "category": "first meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 33,
+      "carbs": 8,
+      "fat": 20
+    }
+  },
+  {
+    "id": 8,
+    "name": "Cârnați bratwurst cu mere, ceapă sotată și varză murată",
+    "category": "second meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 26,
+      "carbs": 20,
+      "fat": 55
+    }
+  },
+  {
+    "id": 9,
+    "name": "Supă de linte cu nucă de cocos și varză kale",
+    "category": "first meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 21,
+      "carbs": 24,
+      "fat": 40
+    }
+  },
+  {
+    "id": 10,
+    "name": "Friptură de porc în supă de oase",
+    "category": "second meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 25,
+      "carbs": 1,
+      "fat": 3
+    }
+  },
+  {
+    "id": 11,
+    "name": "Bacon, avocado și ou",
+    "category": "first meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 117,
+      "carbs": 9,
+      "fat": 59
+    }
+  },
+  {
+    "id": 12,
+    "name": "Pui prăjit",
+    "category": "second meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 25,
+      "carbs": 0,
+      "fat": 6
+    }
+  },
+  {
+    "id": 13,
+    "name": "Gofre",
+    "category": "snack",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 5,
+      "carbs": 3,
+      "fat": 23
+    }
+  },
+  {
+    "id": 14,
+    "name": "Quiche fără crustă cu de toate",
+    "category": "first meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 11,
+      "carbs": 15,
+      "fat": 20
+    }
+  },
+  {
+    "id": 15,
+    "name": "Prăjituri cu crab fără pesmet",
+    "category": "first meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 10,
+      "carbs": 2,
+      "fat": 4
+    }
+  },
+  {
+    "id": 16,
+    "name": "Nuggets de pui",
+    "category": "second meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 48,
+      "carbs": 3,
+      "fat": 29
+    }
+  },
+  {
+    "id": 17,
+    "name": "Tortilla de conopidă galbenă",
+    "category": "first meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 3,
+      "carbs": 22,
+      "fat": 1
+    }
+  },
+  {
+    "id": 18,
+    "name": "Somon cu ghimbir și lămâie",
+    "category": "second meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 50,
+      "carbs": 1,
+      "fat": 42
+    }
+  },
+  {
+    "id": 19,
+    "name": "Carne de vită înăbușită",
+    "category": "second meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 13,
+      "carbs": 0,
+      "fat": 13
+    }
+  },
+  {
+    "id": 20,
+    "name": "Somon în hârtie de copt",
+    "category": "second meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 10,
+      "carbs": 1,
+      "fat": 8
+    }
+  },
+  {
+    "id": 21,
+    "name": "Conopidă galbenă",
+    "category": "first meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 4,
+      "carbs": 3,
+      "fat": 10
+    }
+  },
+  {
+    "id": 22,
+    "name": "Fasole verde cu hașme caramelizate",
+    "category": "first meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 2,
+      "carbs": 7,
+      "fat": 2
+    }
+  },
+  {
+    "id": 23,
+    "name": "Morcovi prăjiți cu cardamom",
+    "category": "first meal",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 14,
+      "carbs": 20,
+      "fat": 14
+    }
+  },
+  {
+    "id": 24,
+    "name": "Brioșe picante cu mere și dovlecei",
+    "category": "snack",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 3,
+      "carbs": 20,
+      "fat": 2
+    }
+  },
+  {
+    "id": 25,
+    "name": "Pâine cu migdale și nucă de cocos",
+    "category": "snack",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 3,
+      "carbs": 31,
+      "fat": 10
+    }
+  },
+  {
+    "id": 26,
+    "name": "Chipsuri de varză kale",
+    "category": "snack",
+    "foodType": "Alimentație ketobiotică",
+    "nutrients": {
+      "protein": 1,
+      "carbs": 2,
+      "fat": 12
+    }
+  },
+  {
+    "id": 27,
+    "name": "Somon în crustă de semințe de in, cu broccoli și dovleac",
+    "category": "second meal",
+    "foodType": "Susținerea hormonilor",
+    "nutrients": {
+      "protein": 54,
+      "carbs": 34,
+      "fat": 27
+    }
+  },
+  {
+    "id": 28,
+    "name": "Tocană de dovleac și năut cu curry",
+    "category": "first meal",
+    "foodType": "Susținerea hormonilor",
+    "nutrients": {
+      "protein": 23,
+      "carbs": 44,
+      "fat": 16
+    }
+  },
+  {
+    "id": 28,
+    "name": "Pui cu susan și ghimbir, cartofi dulci cu fenicul și sfeclă murată",
+    "category": "second meal",
+    "foodType": "Susținerea hormonilor",
+    "nutrients": {
+      "protein": 20,
+      "carbs": 56,
+      "fat": 22
+    }
+  },
+  {
+    "id": 29,
+    "name": "Cartofi dulci cu fasole neagră și ardei cu salată de varză",
+    "category": "first meal",
+    "foodType": "Susținerea hormonilor",
+    "nutrients": {
+      "protein": 24,
+      "carbs": 43,
+      "fat": 18
+    }
+  },
+  {
+    "id": 30,
+    "name": "Creveți, dovleac, bacon și salată de păpădie",
+    "category": "first meal",
+    "foodType": "Susținerea hormonilor",
+    "nutrients": {
+      "protein": 47,
+      "carbs": 33,
+      "fat": 25
+    }
+  },
+  {
+    "id": 31,
+    "name": "Cotlete de porc cu unt, fenicul, varză kale și cartofi",
+    "category": "second meal",
+    "foodType": "Susținerea hormonilor",
+    "nutrients": {
+      "protein": 26,
+      "carbs": 55,
+      "fat": 17
+    }
+  },
+  {
+    "id": 32,
+    "name": "Clătite de năut și verdețuri",
+    "category": "first meal",
+    "foodType": "Susținerea hormonilor",
+    "nutrients": {
+      "protein": 33,
+      "carbs": 69,
+      "fat": 25
+    }
+  },
+  {
+    "id": 33,
+    "name": "Supă de fasole albă și varză kale",
+    "category": "first meal",
+    "foodType": "Susținerea hormonilor",
+    "nutrients": {
+      "protein": 25,
+      "carbs": 48,
+      "fat": 10
+    }
+  },
+  {
+    "id": 34,
+    "name": "Friptură de ierburi, piure de cartofi și legume",
+    "category": "second meal",
+    "foodType": "Susținerea hormonilor",
+    "nutrients": {
+      "protein": 48,
+      "carbs": 27,
+      "fat": 29
+    }
+  },
+  {
+    "id": 35,
+    "name": "Friptură de conopidă, rucola și cartofi dulci",
+    "category": "second meal",
+    "foodType": "Susținerea hormonilor",
+    "nutrients": {
+      "protein": 24,
+      "carbs": 64,
+      "fat": 40
+    }
+  },
+  {
+    "id": 36,
+    "name": "Salată tabbouleh cu quinoa",
+    "category": "first meal",
+    "foodType": "Susținerea hormonilor",
+    "nutrients": {
+      "protein": 2,
+      "carbs": 5,
+      "fat": 8
+    }
+  },
+  {
+    "id": 37,
+    "name": "Orez negru și protocaliu",
+    "category": "second meal",
+    "foodType": "Susținerea hormonilor",
+    "nutrients": {
+      "protein": 8,
+      "carbs": 30,
+      "fat": 4
+    }
+  },
+  {
+    "id": 38,
+    "name": "Crochete de cartofi dulci",
+    "category": "second meal",
+    "foodType": "Susținerea hormonilor",
+    "nutrients": {
+      "protein": 3,
+      "carbs": 26,
+      "fat": 7
+    }
+  },
+  {
+    "id": 39,
+    "name": "Supă de dovleac copt",
+    "category": "first meal",
+    "foodType": "Susținerea hormonilor",
+    "nutrients": {
+      "protein": 2,
+      "carbs": 13,
+      "fat": 5
+    }
+  },
+  {
+    "id": 40,
+    "name": "Prăjitură de quinoa cu cacao",
+    "category": "snack",
+    "foodType": "Susținerea hormonilor",
+    "nutrients": {
+      "protein": 3,
+      "carbs": 25,
+      "fat": 1
+    }
+  },
+  {
+    "id": 41,
+    "name": "Smoothie de avocado și afine",
+    "category": "first meal",
+    "foodType": "Întrerupere post",
+    "nutrients": {
+      "protein": 9,
+      "carbs": 20,
+      "fat": 32
+    }
+  },
+  {
+    "id": 42,
+    "name": "Bombe de grăsime cu chia și ciocolată",
+    "category": "snack",
+    "foodType": "Întrerupere post",
+    "nutrients": {
+      "protein": 8,
+      "carbs": 7,
+      "fat": 29
+    }
+  },
+  {
+    "id": 43,
+    "name": "Avocado și somon afumat cu codimente PPP",
+    "category": "first meal",
+    "foodType": "Întrerupere post",
+    "nutrients": {
+      "protein": 20,
+      "carbs": 10,
+      "fat": 19
+    }
+  },
+  {
+    "id": 44,
+    "name": "Ouă prăjite cu kimchi",
+    "category": "first meal",
+    "foodType": "Întrerupere post",
+    "nutrients": {
+      "protein": 11,
+      "carbs": 3,
+      "fat": 10
+    }
+  },
+  {
+    "id": 45,
+    "name": "Bombe de grăsime cu cocos și mixt de nuci",
+    "category": "snack",
+    "foodType": "Întrerupere post",
+    "nutrients": {
+      "protein": 6,
+      "carbs": 6,
+      "fat": 32
+    }
+  },
+  {
+    "id": 46,
+    "name": "Chiftea de burger cu guacamole",
+    "category": "first meal",
+    "foodType": "Întrerupere post",
+    "nutrients": {
+      "protein": 39,
+      "carbs": 7,
+      "fat": 26
+    }
+  },
+  {
+    "id": 47,
+    "name": "Budincă de chia cu vanilie, fructe de pădure și ciocolată",
+    "category": "snack",
+    "foodType": "Întrerupere post",
+    "nutrients": {
+      "protein": 4,
+      "carbs": 14,
+      "fat": 12
+    }
+  },
+  {
+    "id": 48,
+    "name": "Avocado umplut cu salată de ton",
+    "category": "first meal",
+    "foodType": "Întrerupere post",
+    "nutrients": {
+      "protein": 6,
+      "carbs": 3,
+      "fat": 23
+    }
+  },
+  {
+    "id": 49,
+    "name": "Smoothie cu chefir, căpșuni și mentă",
+    "category": "snack",
+    "foodType": "Întrerupere post",
+    "nutrients": {
+      "protein": 12,
+      "carbs": 24,
+      "fat": 6
+    }
+  },
+  {
+    "id": 50,
+    "name": "Spanac cu oțet din cidru de mere, usturoi și ouă în stil asiatic",
+    "category": "first meal",
+    "foodType": "Întrerupere post",
+    "nutrients": {
+      "protein": 13,
+      "carbs": 3,
+      "fat": 15
+    }
+  },
+  {
+    "id": 51,
+    "name": "Humus cu nucă de cocos și curry",
+    "category": "first meal",
+    "foodType": "Întrerupere post",
+    "nutrients": {
+      "protein": 1,
+      "carbs": 3,
+      "fat": 3
+    }
+  },
+  {
+    "id": 52,
+    "name": "Budincă de chia cu nucă de cocos și ciocolată",
+    "category": "snack",
+    "foodType": "Întrerupere post",
+    "nutrients": {
+      "protein": 3,
+      "carbs": 6,
+      "fat": 9
+    }
+  },
+  {
+    "id": 53,
+    "name": "Supă de oase de vită",
+    "category": "first meal",
+    "foodType": "Întrerupere post",
+    "nutrients": {
+      "protein": 18,
+      "carbs": 0,
+      "fat": 14
+    }
+  }
+]
