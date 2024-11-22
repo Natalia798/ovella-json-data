@@ -25,10 +25,26 @@
   },
   {
     "id": 4,
+    "title": "Alimentația recomandată",
+    "description": "Descoperă recomandările noastre alimentare pentru o viață sănătoasă. Alege între dieta Keto pentru susținerea metabolismului sau alimentația de susținere hormonală pentru echilibru și energie.",
+    "imageSrc": "./img/rec-food.jpeg",
+    "buttonRef": "./pages/recommended-food.html",
+    "buttonName": "Află tipurile de alimentație"
+  },
+  {
+    "id": 5,
     "title": "Rețete",
     "description": "Fie că sunteți în căutarea unor preparate rapide, a unor mese nutritive sau a unor idei creative pentru prânz și cină, veți găsi inspirație aici. Gătiți acasă și bucurați-vă de mâncăruri care nu sunt doar gustoase, dar și benefice pentru sănătatea dumneavoastră.",
     "imageSrc": "./img/recipes.jpg",
     "buttonRef": "./pages/recipes.html",
     "buttonName": "Descoperă rețetele"
+  },
+   {
+    "id": 6,
+    "title": "Meniu personalizat",
+    "description": "Crează-ți un meniu personalizat care se potrivește nevoilor tale dietetice și stilului de viață. Vei găsi opțiuni alimentare care te ajută să îți menții echilibrul energetic și să sprijini sănătatea hormonală, având un plan alimentar optimizat pentru tine în funcție de faza menstruală.",
+    "imageSrc": "./img/meal-plan.jpeg",
+    "buttonRef": "./pages/meal-planner.html",
+    "buttonName": "Vezi meniul personalizat"
   }
 ]
